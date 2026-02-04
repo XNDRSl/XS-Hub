@@ -1,5 +1,5 @@
 --[[ 
-    XS HUB 
+    XS HUB
     - NEW: Target HUD (Info about enemy you aim at)
     - NEW: Auto-Clicker (For semi-auto guns)
     - NEW: Night Mode (Visual clarity)

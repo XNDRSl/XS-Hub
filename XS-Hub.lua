@@ -1,5 +1,5 @@
 --[[ 
-    XS ULTRA — 0.0.5 FIXED
+    XS — 0.0.5 FIXED
     Stable Aim • Proper ESP • No Leaks
     XS Clean UI
 ]]
